@@ -10,4 +10,4 @@ Requires:
 
 To come:
 - BSP for PackRF
-- PackRF deployable Simulink model (should be available 4/6 at the latest)
+- PackRF deployable Simulink model (should be available 4/13 at the latest)
