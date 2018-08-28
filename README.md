@@ -8,6 +8,3 @@ Requires:
 - ADI RF SOM and FMC breakout board (Lab 3 only)
 - PackRF (Lab 4 only)
 
-To come:
-- BSP for PackRF
-- PackRF deployable Simulink model (should be available 4/13 at the latest)
